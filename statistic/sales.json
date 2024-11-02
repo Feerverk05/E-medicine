@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "medicine": "Aspirin",
+        "quantity": 50,
+        "date": "2024-10-01"
+    },
+    {
+        "id": 2,
+        "medicine": "Paracetamol",
+        "quantity": 30,
+        "date": "2024-10-02"
+    },
+    {
+        "id": 3,
+        "medicine": "Ibuprofen",
+        "quantity": 20,
+        "date": "2024-10-03"
+    },
+    {
+        "id": 4,
+        "medicine": "Amoxicillin",
+        "quantity": 40,
+        "date": "2024-10-04"
+    },
+    {
+        "id": 5,
+        "medicine": "Ciprofloxacin",
+        "quantity": 25,
+        "date": "2024-10-05"
+    },
+    {
+        "id": 6,
+        "medicine": "Metformin",
+        "quantity": 35,
+        "date": "2024-10-06"
+    },
+    {
+        "id": 7,
+        "medicine": "Lisinopril",
+        "quantity": 45,
+        "date": "2024-10-07"
+    },
+    {
+        "id": 8,
+        "medicine": "Simvastatin",
+        "quantity": 30,
+        "date": "2024-10-08"
+    },
+    {
+        "id": 9,
+        "medicine": "Omeprazole",
+        "quantity": 60,
+        "date": "2024-10-09"
+    },
+    {
+        "id": 10,
+        "medicine": "Gabapentin",
+        "quantity": 15,
+        "date": "2024-10-10"
+    }
+]
